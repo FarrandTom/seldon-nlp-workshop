@@ -1,0 +1,7 @@
+joblib
+pandas
+numpy
+seldon_core
+google-cloud-storage
+scikit-learn
+nltk
